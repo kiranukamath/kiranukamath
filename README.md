@@ -1,6 +1,8 @@
 # [Kiran U Kamath](https://kirankamath.netlify.app/)
 Python | C++ | JavaScript | react | node.js
 
+![](photos/kiran kamath intro.gif)
+
 <!--![alt text](Image cover link) -->
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
