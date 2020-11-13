@@ -1,7 +1,7 @@
 # [Kiran U Kamath](https://kirankamath.netlify.app/)
 Python | C++ | JavaScript | react | node.js
 
-![](photos/kiran kamath intro.gif)
+![](photos/kiran_kamath_intro.gif)
 
 <!--![alt text](Image cover link) -->
 <p align="center">
