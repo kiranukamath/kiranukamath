@@ -32,12 +32,12 @@ Python | C++ | JavaScript | react | node.js
  <details>
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kirankamatmgm&show_icons=true&theme=gotham" alt="Kiran U Kamath | Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kiranukamath&show_icons=true&theme=gotham" alt="Kiran U Kamath | Stats" />
 
 </details>
 
 
- <!-- Namaste 🙏 ![Visitor Count](https://profile-counter.glitch.me/{kirankamatmgm}/count.svg) -->
+ <!-- Namaste 🙏 ![Visitor Count](https://profile-counter.glitch.me/{kiranukamath}/count.svg) -->
  
  
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
