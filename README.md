@@ -1,5 +1,5 @@
 # [Kiran U Kamath](https://kirankamath.netlify.app/)
-Python | C++ | JavaScript | react | node.js
+Java | Python | Go
 
 ![](photos/kiran_kamath_intro.gif)
 
@@ -22,7 +22,7 @@ Python | C++ | JavaScript | react | node.js
 <!-- Namaste 🙏 -->
  <!--<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
  
-* Primary coding language: Python.
+* Primary coding language: Java.
 * I’m currently working on my portfolio.
 * I'm looking to collaborate on Open source project
 * Competitive Programmer 
@@ -46,6 +46,6 @@ Python | C++ | JavaScript | react | node.js
 [youtube]: https://youtube.com/
 [Hashnode]: https://kirankamath.hashnode.dev/
 [gmail]: https://gmail.com
-[linkedin]: https://www.linkedin.com/in/kiran-u-kamath/
-[Medium]: https://medium.com/@kirankamath7
+[linkedin]: https://www.linkedin.com/in/kiranukamath/
+[Medium]: https://medium.com/@kiranukamath
 [Facebook]: https://www.facebook.com/
