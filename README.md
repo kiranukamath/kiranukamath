@@ -1,5 +1,5 @@
 # [Kiran U Kamath](https://kirankamath.netlify.app/)
-Java | Python | Go
+Java | Go
 
 ![](photos/kiran_kamath_intro.gif)
 
@@ -7,6 +7,7 @@ Java | Python | Go
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
 
+[<img height="30" src="https://img.shields.io/badge/Bio-%231DA1F2.svg?&style=for-the-badge&logo=Bento&logoColor=white" />][Bento]
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" />][Hashnode]
 [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
@@ -23,10 +24,8 @@ Java | Python | Go
  <!--<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
  
 * Primary coding language: Java.
-* I’m currently working on my portfolio.
 * I'm looking to collaborate on Open source project
-* Competitive Programmer 
-* Ask me about anything, I'll be happy to help.
+* Ask me about anything, I'll be happy to collaborate.
 
 
  <details>
@@ -45,7 +44,7 @@ Java | Python | Go
 [twitter]: https://twitter.com/kiranukamath
 [youtube]: https://youtube.com/
 [Hashnode]: https://kirankamath.hashnode.dev/
-[gmail]: https://gmail.com
+[gmail]: kirankamat.mgm@gmail.com
 [linkedin]: https://www.linkedin.com/in/kiranukamath/
 [Medium]: https://medium.com/@kiranukamath
-[Facebook]: https://www.facebook.com/
+[Bento]: https://bento.me/kiranukamath
