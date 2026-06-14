@@ -1,50 +1,71 @@
-# [Kiran U Kamath](https://kirankamath.netlify.app/)
-Java | Go
+<h1 align="center">Kiran U Kamath</h1>
 
-![](photos/kiran_kamath_intro.gif)
-
-<!--![alt text](Image cover link) -->
 <p align="center">
-  <b><i>Let's connect! Find me on the web.</i></b>
+  Senior Software Engineer · Fintech & Fraud Risk · Bengaluru, India
+</p>
 
-[<img height="30" src="https://img.shields.io/badge/Bio-%231DA1F2.svg?&style=for-the-badge&logo=Bento&logoColor=white" />][Bento]
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" />][Hashnode]
-[<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />][Medium]
-<!-- Namaste 🙏 [<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook] -->
-<!-- Namaste 🙏 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube]  -->
-<br />
-<hr />
+<p align="center">
+  <a href="https://kiranukamath.github.io"><img src="https://img.shields.io/badge/Portfolio-kiranukamath.github.io-0a0a0a?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/kiranukamath"><img src="https://img.shields.io/badge/LinkedIn-kiranukamath-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://kiranukamath.github.io/resume/"><img src="https://img.shields.io/badge/Resume-View-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white" /></a>
+  <a href="https://kirankamath.hashnode.dev/"><img src="https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+</p>
 
+---
 
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<!-- Namaste 🙏 -->
- <!--<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
- 
-* Primary coding language: Java.
-* I'm looking to collaborate on Open source project
-* Ask me about anything, I'll be happy to collaborate.
+## 👋 About
 
+5+ years building high-performance backend systems in fintech. Currently a **Senior Software Engineer at PayU**, working on fraud risk management (FRM) platforms — rule engines, real-time decisioning, and microservices at scale.
 
-<!-- <details>
-<summary>📊 Github Stats</summary>
+---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kiranukamath&show_icons=true&theme=gotham" alt="Kiran U Kamath | Stats" />
+## 💼 Experience
 
-</details>
--->
+| Period | Role | Company |
+|---|---|---|
+| Apr 2023 – Present | Senior Software Engineer | PayU |
+| Apr 2021 – Apr 2023 | Software Engineer | PayU |
+| Sep 2020 – Apr 2021 | Associate Software Engineer | PayU |
 
- <!-- Namaste 🙏 ![Visitor Count](https://profile-counter.glitch.me/{kiranukamath}/count.svg) -->
- 
- 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+**Highlights from PayU:**
+- Reduced decision engine latency **630ms → 50ms** via Java profiling & memory leak analysis
+- Scaled throughput **40 TPS → 200 TPS** per node (4-core, 8GB RAM VM)
+- Migrated Trident FRM from monolith → multi-tenant microservices (Spring Boot + RabbitMQ + Couchbase)
+- Built a rule engine processing **5× the previous transaction volume** with dynamic rule authoring
+- Designed fraud detection workflows using Camunda BPMN for multi-level approvals
 
-[twitter]: https://twitter.com/kiranukamath
-[youtube]: https://youtube.com/
-[Hashnode]: https://kirankamath.hashnode.dev/
-[gmail]: kirankamat.mgm@gmail.com
-[linkedin]: https://www.linkedin.com/in/kiranukamath/
-[Medium]: https://medium.com/@kiranukamath
-[Bento]: https://bento.me/kiranukamath
+---
+
+## 🛠️ Skills
+
+**Languages:** Java · Python · SQL · Shell
+
+**Backend:** Spring Boot · Microservices · REST APIs · Camunda BPMN · Rule Engines
+
+**Messaging & Data:** Kafka · RabbitMQ · Couchbase · MySQL · Redis
+
+**Tools:** Docker · Git · CI/CD · Java Profiler · AWS
+
+---
+
+## 🚀 Projects
+
+**[KiraDB](https://github.com/kiranukamath/kiradb)** — Redis-compatible database with adaptive tiered storage (memory → SSD → S3). Built-in feature flags, rate limiting, config management, and semantic caching for AI workloads.
+
+**[Ticket Booking Backend](https://github.com/kiranukamath/ticket-booking-platform)** — High-concurrency ticket booking system using Redis + Lua scripts to manage seat availability and prevent overselling.
+
+---
+
+## 🎓 Education
+
+- **B.E. Information Science & Engineering** — National Institute of Engineering (2016–2020) · GPA 8.24/10
+- **Cloud Native Application Architecture** — Udacity (2023)
+- **Data Scientist Nanodegree** — Udacity (2021)
+
+---
+
+<p align="center">
+  Full portfolio, blog & resume → <a href="https://kiranukamath.github.io"><strong>kiranukamath.github.io</strong></a>
+</p>
+
+<!-- Sync guide: update highlights above when kiranukamath.github.io/index.html changes (experience, projects, skills sections). -->
