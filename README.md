@@ -1,7 +1,7 @@
 <h1 align="center">Kiran U Kamath</h1>
 
 <p align="center">
-  Senior Software Engineer · Fintech & Fraud Risk · Bengaluru, India
+  Lead Software Engineer · Fintech & Fraud Risk · Bengaluru, India
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 👋 About
 
-5+ years building high-performance backend systems in fintech. Currently a **Senior Software Engineer at PayU**, working on fraud risk management (FRM) platforms — rule engines, real-time decisioning, and microservices at scale.
+6+ years building high-performance backend systems in fintech. Currently a **Lead Software Engineer at PayU**, working on fraud risk management (FRM) platforms — rule engines, real-time decisioning, and microservices at scale.
 
 ---
 
@@ -23,7 +23,8 @@
 
 | Period | Role | Company |
 |---|---|---|
-| Apr 2023 – Present | Senior Software Engineer | PayU |
+| Apr 2026 – Present | Lead Software Engineer | PayU |
+| Apr 2023 – Mar 2026 | Senior Software Engineer | PayU |
 | Apr 2021 – Apr 2023 | Software Engineer | PayU |
 | Sep 2020 – Apr 2021 | Associate Software Engineer | PayU |
 
