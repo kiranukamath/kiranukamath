@@ -25,8 +25,7 @@
 |---|---|---|
 | Apr 2026 – Present | Lead Software Engineer | PayU |
 | Apr 2023 – Mar 2026 | Senior Software Engineer | PayU |
-| Apr 2021 – Apr 2023 | Software Engineer | PayU |
-| Sep 2020 – Apr 2021 | Associate Software Engineer | PayU |
+| Sep 2020 – Apr 2023 | Software Engineer | PayU |
 
 **Highlights from PayU:**
 - Reduced decision engine latency **630ms → 50ms** via Java profiling & memory leak analysis
